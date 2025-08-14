@@ -12,7 +12,9 @@ The following diagram provides a high level overview of how digital.auto (Eclipe
 
 ## How it is done
 
-Eclipse autowrx (playground.digital.auto) and AosEdge is already connected with a Service Connector. Once you create a prototype app or service in the playground that utilizes standardized vehicle API, the app/service's python model can be shared through the Service Connector to AosEdge. The Service Connector will repackage the model in format that enables AosCloud to handle. AosEdge can have your necessary environments registered as units, whether it may be virtual or physical hardware such as test board or even actual vehicle. User can deploy the repackaged model as a container which AosCore, the embedded runtime orchestrator, can orchestrate within the virtual or physical device. Within the whole development and deployment lifecycle of the model, there would be many other Eclipse Blueprints that can be utilized.
+Eclipse autowrx (playground.digital.auto) and AosEdge is already connected with a Service Connector. Once you create a prototype app or service in the playground that utilizes standardized vehicle API, the app/service's python model can be shared through the Service Connector to AosEdge. The Service Connector will repackage the model in format that enables AosCloud to handle. 
+
+AosEdge can have your necessary environments registered as units, whether it may be virtual or physical hardware such as test board or even actual vehicle. User can deploy the repackaged model as a container which AosCore, the embedded runtime orchestrator, can orchestrate within the virtual or physical device. Within the whole development and deployment lifecycle of the model, there would be many other Eclipse Blueprints that can be utilized.
 
 ## Code
 
