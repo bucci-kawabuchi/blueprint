@@ -2,7 +2,7 @@ The Eclipse SDV Blueprints project is a collaborative initiative led by Eclipse 
 
 The project hosts a collection of blueprints that demonstrate the application of technologies developed in the context of the Eclipse SDV Working Group.
 
-This repository contains the digital.auto & AosEdge Blueprint which enables quick seamless prototyping with unified Mixed-Critical Deployment & Orchestration platforms for Virtual & HW environments.
+This repository contains the digital.auto & AosEdge Blueprint which enables quick seamless prototyping with unified Mixed-Critical Deployment & Orchestration platforms for Virtual & HW environments.
 
 ## Blueprint overview
 
